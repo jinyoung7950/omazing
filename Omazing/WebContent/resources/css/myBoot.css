@@ -1,0 +1,91 @@
+@CHARSET "UTF-8";
+
+.myClose {
+  float: none;
+  margin: 0px;
+  padding: 0px;
+  right:0px;
+  font-size: 15px;
+  font-weight: bold;
+  line-height: 1;
+  color: #000000;
+  text-shadow: 0 1px 0 #fff;
+  filter: alpha(opacity=20);
+  opacity: .2;
+} 
+
+.btn-circle {
+  text-align: center;
+  padding: 5px 0;
+  font-size: 15px;
+  line-height: 2.00;
+  border-radius: 20px;
+}
+
+.wrap {
+    width: 600px;
+    height: auto;
+    position: relative;
+    display: inline-block;
+}
+.wrap textarea {
+    width: 100%;
+    resize: none;
+    min-height: 9em;
+    line-height:1.6em;
+    max-height: 9em;
+}
+.wrap span {
+    position: absolute;
+    bottom: 5px;
+    right: 5px;
+}
+#counter1 {
+  border-radius: 0.5em;
+  padding-left:0.5em;
+  padding-right:0.5em;
+  padding-top:0px;
+  font-size: 14px;
+}
+#counter2 {
+  border-radius: 0.5em;
+  padding-left:0.5em;
+  padding-right:0.5em;
+  padding-top:0px;
+  font-size: 14px;
+}
+#counter3 {
+  border-radius: 0.5em;
+  padding-left:0.5em;
+  padding-right:0.5em;
+  padding-top:0px;
+  font-size: 14px;
+}
+#counter4 {
+  border-radius: 0.5em;
+  padding-left:0.5em;
+  padding-right:0.5em;
+  padding-top:0px;
+  font-size: 14px;
+}
+#counter5 {
+  border-radius: 0.5em;
+  padding-left:0.5em;
+  padding-right:0.5em;
+  padding-top:0px;
+  font-size: 14px;
+}
+#counter6 {
+  border-radius: 0.5em;
+  padding-left:0.5em;
+  padding-right:0.5em;
+  padding-top:0px;
+  font-size: 14px;
+}
+#counter7 {
+  border-radius: 0.5em;
+  padding-left:0.5em;
+  padding-right:0.5em;
+  padding-top:0px;
+  font-size: 14px;
+}

@@ -1,0 +1,38 @@
+@CHARSET "UTF-8";
+.page-header {
+  padding-bottom: 9px;
+  margin: 5px 0 20px;
+  border-bottom: 1px solid #eee;
+  background-color: gray;
+  color: white;
+}
+.nav > li > a{
+	text-align: center;
+}
+.caption{
+	text-align: center;
+}
+#language-plus, #language-minus , #develop-plus, #develop-minus{
+	text-align:center;
+    font-size: 25px;
+    color:maroon;
+}
+#language-plus:hover, #language-minus:hover, #develop-plus:hover, #develop-minus:hover,{
+	text-align:center;
+    font-size: 25px;
+    color:highlight;
+}
+.panel:hover,.panel-heading:hover, .panel-body:hover{
+	background-color: gray;
+	color: aqua;
+}
+.user-btn{
+	display:block;                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+	float:right;
+}
+.panel-heading{
+	background-color: #b6dabe;
+}
+.chart-data{
+	border-style: solid;
+}
